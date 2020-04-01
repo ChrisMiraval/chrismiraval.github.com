@@ -36,7 +36,7 @@ links.forEach(function(v){
         //Se ejecuta la totalidad del evento despúes de un tiempo X
         setTimeout(function(){
             //Nos direccionamos a la ruta especificada
-            location.href = "/Boletines"
+            location.href = "/DesarrolloWeb/Boletines"
         }, 600);        
 
         return false;
